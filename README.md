@@ -3,5 +3,6 @@
 ## Try it
 
 ```bash
-npm install && npm start
+git clone ...
+cd cra-intro && npm install && npm start
 ```
